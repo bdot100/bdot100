@@ -10,7 +10,19 @@
 <p align="left"> <a href="https://x.com/BidemiOkunade" target="blank"><img src="https://img.shields.io/twitter/follow/BidemiOkunade?logo=x&style=for-the-badge" alt="BidemiOkunade" /></a> </p>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<h3 align="left">Talking about Personal Stuff:</h3>
 
+- 🌱 I’m proficient in **PHP(Laravel, Symfony)**
+
+- 🌱 I’m currently learning **Javascript, Python, NodeJS**
+
+- 💬 Ask me about anything tech related, I am happy to help;
+- 
+- 💻 I love to write code learn new things every day.
+- 
+- 📫 How to reach me **bidemiokunade@gmail.com**
+
+<br>
 
 
 - 👨‍💻 Software Engineer
