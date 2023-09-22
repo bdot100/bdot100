@@ -14,21 +14,18 @@
 
 - 🌱 I’m proficient in **PHP(Laravel, Symfony)**
 
-- 🌱 I’m currently learning **Javascript, Python, NodeJS**
+- 🌱 I’m currently learning **Javascript, Python, NodeJS, React**
 
 - 💬 Ask me about anything tech related, I am happy to help;
-- 
-- 💻 I love to write code learn new things every day.
-- 
+  
+- 💻 I love to write code and learn new things every day.
+  
 - 📫 How to reach me **bidemiokunade@gmail.com**
 
-<br>
-
-
-- 👨‍💻 Software Engineer
 - 🌐 [Portfolio Website](https://www.linkedin.com/in/bidemi-okunade-415a38241)
 - 📫 Contact me at bidemiokunade@gmail.com
-- 📄 [Resume](https://www.linkedin.com/in/bidemi-okunade-415a38241)
+- 👨🏻‍💻 [My LinkedIn](https://www.linkedin.com/in/bidemi-okunade-415a38241)
+- 📄 [Resume]()
 - 📚 My Expertise:
   - PHP (Symfony, Laravel)
   - Python
@@ -37,6 +34,8 @@
   - React
   - Node.js
   - HTML/CSS
+<br>
+
 
 ![Bdot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdot100&show_icons=true&theme=dark)
 
