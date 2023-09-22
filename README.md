@@ -1,4 +1,20 @@
 ### Hi there 👋
+# Hello, Bidemi Okunade!
+
+- 👨‍💻 Software Engineer
+- 🌐 [Portfolio Website](https://www.linkedin.com/in/bidemi-okunade-415a38241)
+- 📫 Contact me at bidemiokunade@gmail.com
+- 📄 [Resume](https://www.linkedin.com/in/bidemi-okunade-415a38241)
+- 📚 My Expertise:
+  - PHP (Symfony, Laravel)
+  - Python
+  - SQL
+  - JavaScript
+  - React
+  - Node.js
+  - HTML/CSS
+
+![Bdot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdot100&show_icons=true&theme=dark)
 
 <!--
 **bdot100/bdot100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
