@@ -5,9 +5,9 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Bdot100 | 💻 Software Engineer | 🛸 Ibadan, Nigeria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickssilver&label=Profile%20views&color=0e75b6&style=flat" alt="nickssilver" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bdot100&label=Profile%20views&color=0e75b6&style=flat" alt="Bdot100" /> </p>
 
-<p align="left"> <a href="https://x.com/BidemiOkunade" target="blank"><img src="https://img.shields.io/twitter/follow/BidemiOkunade?logo=twitter&style=for-the-badge" alt="BidemiOkunade" /></a> </p>
+<p align="left"> <a href="https://x.com/BidemiOkunade" target="blank"><img src="https://img.shields.io/twitter/follow/BidemiOkunade?logo=x&style=for-the-badge" alt="BidemiOkunade" /></a> </p>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
