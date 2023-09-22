@@ -1,4 +1,9 @@
-# Hello, My Name Is Bidemi Okunade!
+# Welcome to my GitHub page
+### Hi there,👋
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Bdot100 | 💻 Software Engineer | 🛸 Ibadan, Nigeria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
 - 👨‍💻 Software Engineer
 - 🌐 [Portfolio Website](https://www.linkedin.com/in/bidemi-okunade-415a38241)
