@@ -1,7 +1,6 @@
 # Welcome to my GitHub page
-### Hi there,👋
 
-<div align="center">
+<div align="left">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Bdot100 | 💻 Software Engineer | 🛸 Ibadan, Nigeria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <br>
@@ -36,6 +35,14 @@
   - HTML/CSS
 <br>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x/BidemiOkunade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x" alt="Bdot100" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:14954641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:11481659" height="30" width="40" /></a>
+<a href="https://www.facebook.com/okunade.bidemisamson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nickssilver" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/bdot195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pronicks" height="30" width="40" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pronic#5837" height="30" width="40" /></a>
+</p>
 
 ![Bdot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdot100&show_icons=true&theme=dark)
 
