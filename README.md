@@ -1,5 +1,4 @@
-### Hi there 👋
-# Hello, Bidemi Okunade!
+# Hello, My Name Is Bidemi Okunade!
 
 - 👨‍💻 Software Engineer
 - 🌐 [Portfolio Website](https://www.linkedin.com/in/bidemi-okunade-415a38241)
