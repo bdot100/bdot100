@@ -72,7 +72,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/BidemiOkunade" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/BidemiOkunade?logo=x&style=for-the-badge" alt="Bdot100" height="30" width="40" /></a>
+<a href="https://x.com/BidemiOkunade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bdot100" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:14954641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:11481659" height="30" width="40" /></a>
 <a href="https://www.facebook.com/okunade.bidemisamson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nickssilver" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/bdot195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pronicks" height="30" width="40" /></a>
