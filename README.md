@@ -60,12 +60,10 @@
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
 </p>
 
-![Bdot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdot100&show_icons=true&theme=dark)
-
 <h2 align="center">📊 My Github Stats </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bdot100&show_icons=true&locale=en&layout=compact" alt="Bdot100" 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Bdot100&show_icons=true&locale=en" alt="Bdot100" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Bdot100&show_icons=true&locale=en&theme=dark" alt="Bdot100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bdot100" alt="Bdot100" /></p>
 
