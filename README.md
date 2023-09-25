@@ -59,7 +59,7 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/icons/logo.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://techinfini.in/wp-content/uploads/2017/09/React-Logo-1.png" alt="react" width="40" height="40"/> </a>
 </p>
 
 <h2 align="center">📊 My Github Stats </h2>
