@@ -26,6 +26,7 @@
 - 👨🏻‍💻 [My LinkedIn](https://www.linkedin.com/in/bidemi-okunade-415a38241)
 - 📄 [Resume]()
 - 📚 My Expertise:
+  - Flutter (Dart) 
   - PHP (Symfony, Laravel)
   - Python
   - SQL
